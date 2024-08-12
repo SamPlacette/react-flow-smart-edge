@@ -57,7 +57,7 @@
 		"strip-ansi": "^6.0.1"
 	},
 	"dependencies": {
-		"pathfinding": "git://github.com:SamPlacette/PathFinding.js.git#vite-compat"
+		"pathfinding": "git+ssh://git@github.com:SamPlacette/PathFinding.js.git#vite-compat"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.20.2",
